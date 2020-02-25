@@ -1,0 +1,88 @@
+{
+  "data": {
+    "questions": [
+      {
+        "id": 1,
+        "question_type_id": 2,
+        "question_type_name": "Single",
+        "question_name": "Do you currently feel like you are behind in your work?",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Yes"
+          },
+          {
+            "answer_id": "12",
+            "name": "No"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question_type_id": 2,
+        "question_type_name": "Single",
+        "question_name": "Do you currently feel like you have enough independence in your role to perform well?",
+        "question_item": [
+          {
+            "answer_id": "21",
+            "name": "Yes"
+          },
+          {
+            "answer_id": "22",
+            "name": "No"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question_type_id": 3,
+        "question_type_name": "Single",
+        "question_name": "Do you currently feel a genuine sense of community in the workplace?",
+        "question_item": [
+          {
+            "answer_id": "31",
+            "name": "Yes"
+          },
+          {
+            "answer_id": "32",
+            "name": "No"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question_type_id": 4,
+        "question_type_name": "Single",
+        "question_name": "Do you feel like your work and responsibilities are valued equally with your peers'?",
+        "question_item": [
+          {
+            "answer_id": "41",
+            "name": "Yes"
+          },
+          {
+            "answer_id": "42",
+            "name": "No"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question_type_id": 5,
+        "question_type_name": "Single",
+        "question_name": "What is your current level of job satisfaction?",
+        "question_item": [
+          {
+            "answer_id": "51",
+            "name": "Low"
+          },
+          {
+            "answer_id": "52",
+            "name": "High"
+          }
+        ]
+      }
+    ]
+  },
+  "status": true,
+  "message": "The data was fetched successfully"
+}
